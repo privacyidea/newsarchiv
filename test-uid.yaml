@@ -1,0 +1,15 @@
+uid: test-uid
+pi_version_from: 2.23
+pi_version_to: 2.23.4
+valid_from: 2018-12-31
+valid_to: 2019-04-01
+type: updateinfo
+severity: INFO
+audience: admin
+text:
+   de:
+     Etwas ist faul im Staate Dänemark
+     **und das ist ein fetter text*
+     und das ist ein [link](https://privacyidea.org)
+   en:
+     When shall we three meet again?
